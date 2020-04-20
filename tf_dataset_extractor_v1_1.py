@@ -1,3 +1,4 @@
+#20200420
 # Commented out IPython magic to ensure Python compatibility.
 # %tensorflow_version 2.x
 import tensorflow as tf
